@@ -1,0 +1,24 @@
+{
+products : [
+{"id":1,"name":"Skua, long-tailed","category":"Khaki"},
+{"id":2,"name":"Plover, blacksmith","category":"Violet"},
+{"id":3,"name":"Eurasian red squirrel","category":"Turquoise"},
+{"id":4,"name":"Small Indian mongoose","category":"Puce"},
+{"id":5,"name":"Vulture, king","category":"Blue"},
+{"id":6,"name":"Yellow-rumped siskin","category":"Yellow"},
+{"id":7,"name":"American crow","category":"Aquamarine"},
+{"id":8,"name":"Egyptian vulture","category":"Orange"},
+{"id":9,"name":"Mandras tree shrew","category":"Fuscia"},
+{"id":10,"name":"Lava gull","category":"Turquoise"},
+{"id":11,"name":"Black-capped chickadee","category":"Mauv"},
+{"id":12,"name":"Toddy cat","category":"Maroon"},
+{"id":13,"name":"Red-necked phalarope","category":"Goldenrod"},
+{"id":14,"name":"Arctic fox","category":"Orange"},
+{"id":15,"name":"Grison","category":"Orange"},
+{"id":16,"name":"South American puma","category":"Crimson"},
+{"id":17,"name":"Magellanic penguin","category":"Mauv"},
+{"id":18,"name":"Owl, snowy","category":"Turquoise"},
+{"id":19,"name":"Rattlesnake, dusky","category":"Yellow"},
+{"id":20,"name":"Kookaburra, laughing","category":"Maroon"}
+]
+}
