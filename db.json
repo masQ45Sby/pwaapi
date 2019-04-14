@@ -1,5 +1,5 @@
 {
-products : [
+"products" : [
 {"id":1,"name":"Skua, long-tailed","category":"Khaki"},
 {"id":2,"name":"Plover, blacksmith","category":"Violet"},
 {"id":3,"name":"Eurasian red squirrel","category":"Turquoise"},
